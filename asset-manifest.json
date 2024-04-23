@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Noteverse/static/css/main.04baf95e.css",
+    "main.js": "/Noteverse/static/js/main.f783e999.js",
+    "static/js/453.d724e79d.chunk.js": "/Noteverse/static/js/453.d724e79d.chunk.js",
+    "index.html": "/Noteverse/index.html",
+    "main.04baf95e.css.map": "/Noteverse/static/css/main.04baf95e.css.map",
+    "main.f783e999.js.map": "/Noteverse/static/js/main.f783e999.js.map",
+    "453.d724e79d.chunk.js.map": "/Noteverse/static/js/453.d724e79d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04baf95e.css",
+    "static/js/main.f783e999.js"
+  ]
+}
